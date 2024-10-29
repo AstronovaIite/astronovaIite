@@ -1,6 +1,6 @@
 <p align="center"> 
     <img src="https://file.garden/ZrgE6xyrrgxh47YJ/IMG_3781.png"/>
-    <img src="https://komarev.com/ghpvc/?username=SUBSPACE-TRIPMlNE&label=greetings+!&color=703b79&style=flat-square"/>
+    <img src="https://komarev.com/ghpvc/?username=astronovaIite&label=greetings+!&color=490A51&style=flat-square"/>
 <p align="center">
 <img src="https://file.garden/ZrgE6xyrrgxh47YJ/IMG_3779.png"/>
 </p>
